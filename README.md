@@ -1,0 +1,2 @@
+# FastAPI_VS
+VS CODE FASTAPI
